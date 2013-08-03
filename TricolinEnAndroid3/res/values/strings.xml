@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tricolin en Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Tricolin y la seguridad vial</string>
+    
+    <string name="UnJugador">1 Jugador</string>
+    <string name="DosJugadores">2 Jugadores</string>
+    <string name="AcercaDe">Acerca de</string>
+    <string name="Salir">Salir</string>
+    <string name="hello">Tricolin y la seguridad vial</string>
+	<string name="tituloAplicacion">Tricolin en Android</string>
+	<string name="descripcion">Aqui se coloca la descripcion de la aplicacion</string>
+	<string name="Listo">¡Listo!</string>
+	<string name="Nombre">Nombre del Jugador</string>
+	<string name="Fin">Finalizar</string>
+	<string name="PrimerLugar">Primer Lugar</string>
+	<string name="SegundoLugar">Segundo Lugar</string>
+	<string name="SegundoNombre">Perdedor</string>
+	<string name="PrimerNombre">Ganador</string>
+	<string name="Menu">Menu</string>
+	
+	<string name="TituloJuego">Tricolin!!!</string>
+</resources>
